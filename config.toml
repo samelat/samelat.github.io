@@ -1,0 +1,30 @@
+baseURL = "https://samelat.github.io/"
+languageCode = "en-us"
+title = "Samelat's"
+theme = 'm10c'
+
+
+[params]
+    author = "Gaston Traberg" 
+    description = "A pleace to keep my log"
+    avatar = "samelat.png"
+    # menu_item_separator: Separator between each menu item. HTML allowed (default: " - “)
+    # favicon: Absolute path of your favicon.ico file (default: “/favicon.ico”)
+
+[[params.social]]
+    icon = "github"
+    name = "My Github"
+    url = "https://github.com/samelat"
+
+[[params.social]]
+    icon = "twitter"
+    name = "My Twitter"
+    url = "https://twitter.com/_samelat"
+
+[[menu.main]]
+    identifier = "DeFi"
+    name = "DeFi"
+    url = "/defi/"
+
+[params.style]
+  primaryColor = "#80c7ff"
