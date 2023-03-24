@@ -7,3 +7,5 @@ Hi, my name is Gaston Traberg, but those who know me call me Samelat. I've been 
 From 2017 I started researching DeFi, Crypto and Decentralized technologies in general and from then I cannot stop getting deep in this really interesting world.
 
 I created this space to write down all my research and keep it accessible not just for me but for anyone :).
+
+I also invite you to the blog of [CaMaGri](https://camagri.github.io/es/)
