@@ -1,30 +1,65 @@
 baseURL = "https://samelat.github.io/"
-languageCode = "en-us"
-title = "Samelat's"
-theme = 'm10c'
-
+title = "Samelat's Blog"
+theme = 'poison'
 
 [params]
     author = "Gaston Traberg" 
-    description = "A pleace to keep my log"
-    avatar = "samelat.png"
+    brand_image = "/samelat.png"
+    brand = "Samelat's"
+    description = "Gaston Traberg blog"
+    dark_mode = true
     # menu_item_separator: Separator between each menu item. HTML allowed (default: " - “)
     # favicon: Absolute path of your favicon.ico file (default: “/favicon.ico”)
 
-[[params.social]]
-    icon = "github"
-    name = "My Github"
-    url = "https://github.com/samelat"
+    instagram_url = "https://www.instagram.com/gaston.traberg/"
+    github_url = "https://github.com/samelat"
+    twitter_url = "https://twitter.com/_samelat"
 
-[[params.social]]
-    icon = "twitter"
-    name = "My Twitter"
-    url = "https://twitter.com/_samelat"
 
-[[menu.main]]
-    identifier = "DeFi"
-    name = "DeFi"
-    url = "/defi/"
+defaultContentLanguage = 'es'
+[languages]
+    [languages.es]
+        weight = 1
 
-[params.style]
-  primaryColor = "#80c7ff"
+[[languages.es.menu.main]]
+    identifier = "projects"
+    name = "Proyectos"
+    url = "/es/posts/projects/"
+    weight = 1
+
+[[languages.es.menu.main]]
+    identifier = "dvd"
+    parent = "projects"
+    name = "Damn Vulnerable DeFi"
+    url = "/es/posts/projects/dvd/"
+    weight = 2
+
+[[languages.es.menu.main]]
+    identifier = "about"
+    name = "Sobre mi"
+    url = "/es/about/"
+    weight = 100
+
+
+    [languages.en]
+        weight = 2
+
+[[languages.en.menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/posts/projects/"
+    weight = 1
+
+[[languages.en.menu.main]]
+    identifier = "dvd"
+    parent = "projects"
+    name = "Damn Vulnerable DeFi"
+    url = "/posts/projects/dvd/"
+    weight = 2
+
+[[languages.en.menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about/"
+    weight = 100
+
