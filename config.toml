@@ -21,45 +21,45 @@ defaultContentLanguage = 'es'
     [languages.es]
         weight = 1
 
-[[languages.es.menu.main]]
-    identifier = "projects"
-    name = "Proyectos"
-    url = "/es/posts/projects/"
-    weight = 1
+        [[languages.es.menu.main]]
+            identifier = "projects"
+            name = "Proyectos"
+            url = "/es/posts/projects/"
+            weight = 1
 
-[[languages.es.menu.main]]
-    identifier = "dvd"
-    parent = "projects"
-    name = "Damn Vulnerable DeFi"
-    url = "/es/posts/projects/dvd/"
-    weight = 2
+        [[languages.es.menu.main]]
+            identifier = "dvd"
+            parent = "projects"
+            name = "Damn Vulnerable DeFi"
+            url = "/es/posts/projects/dvd/"
+            weight = 2
 
-[[languages.es.menu.main]]
-    identifier = "about"
-    name = "Sobre mi"
-    url = "/es/about/"
-    weight = 100
+        [[languages.es.menu.main]]
+            identifier = "about"
+            name = "Sobre mi"
+            url = "/es/about/"
+            weight = 100
 
 
     [languages.en]
         weight = 2
 
-[[languages.en.menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/posts/projects/"
-    weight = 1
+        [[languages.en.menu.main]]
+            identifier = "projects"
+            name = "Projects"
+            url = "/posts/projects/"
+            weight = 1
 
-[[languages.en.menu.main]]
-    identifier = "dvd"
-    parent = "projects"
-    name = "Damn Vulnerable DeFi"
-    url = "/posts/projects/dvd/"
-    weight = 2
+        [[languages.en.menu.main]]
+            identifier = "dvd"
+            parent = "projects"
+            name = "Damn Vulnerable DeFi"
+            url = "/posts/projects/dvd/"
+            weight = 2
 
-[[languages.en.menu.main]]
-    identifier = "about"
-    name = "About me"
-    url = "/about/"
-    weight = 100
+        [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About me"
+            url = "/about/"
+            weight = 100
 
