@@ -46,13 +46,17 @@ En un futuro donde las guerras no se libran por petróleo sino por minerales, **
 
 ### El papel de China
 
-China comprende esto mejor que nadie.  
-Controla el 80% del mercado mundial de tierras raras y quiere consolidar su liderazgo en baterías, semiconductores y fusión.  
+China comprende esto mejor que nadie.
+Controla el 80% del mercado mundial de tierras raras y quiere consolidar su liderazgo en baterías, semiconductores y fusión.
 Una Rusia debilitada pero con recursos —y aislada de Occidente— **es el socio perfecto**: le vende materias primas a precios bajos, le sirve como escudo político y amplía su influencia sin que China tenga que ensuciarse las manos.
 
 Si Rusia controla Ucrania, **China gana acceso indirecto a sus recursos** sin enfrentarse directamente a Europa o Estados Unidos.
 
-Y otros regímenes aislados, como **Corea del Norte**, aunque no dependan de los combustibles fósiles, también buscan asegurarse relevancia en el tablero futuro: apuestan a su valor militar, a sus recursos minerales o, simplemente, a tener algo que negociar cuando cambie el orden global.
+Por su parte, **Corea del Norte** juega un papel más sutil pero no menos importante.
+Su supervivencia depende casi totalmente del apoyo chino, y lo sabe.
+Si la geopolítica futura favorece a China, también la favorece a ella.
+Por eso **coopera militarmente con Rusia**, asegurándose un lugar dentro del bloque que aspira a dominar la próxima era.
+Pyongyang no tiene mucho que ofrecer en términos económicos, así que **su valor está en lo militar**: funciona como **el brazo armado que permite a China influir sin exponerse directamente**, evitando sanciones o confrontaciones abiertas con Occidente.
 
 ---
 
