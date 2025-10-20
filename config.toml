@@ -33,6 +33,12 @@ defaultContentLanguage = 'es'
             name = "Damn Vulnerable DeFi"
             url = "/es/posts/projects/dvd/"
             weight = 2
+        
+        [[languages.es.menu.main]]
+            identifier = "off-the-road"
+            name = "Off the Road"
+            url = "/es/posts/off-the-road/"
+            weight = 3
 
         [[languages.es.menu.main]]
             identifier = "about"
